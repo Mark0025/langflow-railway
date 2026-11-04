@@ -8,6 +8,12 @@ tags:
 
 # LangFlow Example
 
+## About
+- **What it is:** A starter template for running LangFlow on Railway, copied without changes by Mark.
+- **Business:** learning
+- **Status:** inactive since 2023-08
+- **Source:** agent research 2026-11-04
+
 This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
 
 
