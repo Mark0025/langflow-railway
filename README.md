@@ -14,10 +14,6 @@ tags:
 - **Status:** inactive since 2023-08
 - **Source:** agent research 2026-11-04
 
-This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
-
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/JMXEWp)
 ## ✨ Features
 
 - LangFlow
